@@ -1,0 +1,14 @@
+C:\Users\Harshvardhan Gupta\source\repos\ClassesStructs\obj\Debug\net8.0\ClassesStructs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshvardhan Gupta\source\repos\ClassesStructs\obj\Debug\net8.0\ClassesStructs.AssemblyInfoInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\ClassesStructs\obj\Debug\net8.0\ClassesStructs.AssemblyInfo.cs
+C:\Users\Harshvardhan Gupta\source\repos\ClassesStructs\obj\Debug\net8.0\ClassesStructs.csproj.CoreCompileInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\ClassesStructs\bin\Debug\net8.0\ClassesStructs.exe
+C:\Users\Harshvardhan Gupta\source\repos\ClassesStructs\bin\Debug\net8.0\ClassesStructs.deps.json
+C:\Users\Harshvardhan Gupta\source\repos\ClassesStructs\bin\Debug\net8.0\ClassesStructs.runtimeconfig.json
+C:\Users\Harshvardhan Gupta\source\repos\ClassesStructs\bin\Debug\net8.0\ClassesStructs.dll
+C:\Users\Harshvardhan Gupta\source\repos\ClassesStructs\bin\Debug\net8.0\ClassesStructs.pdb
+C:\Users\Harshvardhan Gupta\source\repos\ClassesStructs\obj\Debug\net8.0\ClassesStructs.dll
+C:\Users\Harshvardhan Gupta\source\repos\ClassesStructs\obj\Debug\net8.0\refint\ClassesStructs.dll
+C:\Users\Harshvardhan Gupta\source\repos\ClassesStructs\obj\Debug\net8.0\ClassesStructs.pdb
+C:\Users\Harshvardhan Gupta\source\repos\ClassesStructs\obj\Debug\net8.0\ClassesStructs.genruntimeconfig.cache
+C:\Users\Harshvardhan Gupta\source\repos\ClassesStructs\obj\Debug\net8.0\ref\ClassesStructs.dll
