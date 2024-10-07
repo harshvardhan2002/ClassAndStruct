@@ -4,4 +4,4 @@ This repository contains a project that shows the differences between Classes (r
 
 Program.cs: Contains the `Main` method and shows class and struct behavior.
 SeperateClass.cs: Created the `SeperateClass` and a method to change its `Name`.
-**SeperateStruct.cs: Created the `SeperateStruct` and a method to change its `Name` (with `ref`).
+SeperateStruct.cs: Created the `SeperateStruct` and a method to change its `Name` (with `ref`).
